@@ -1,4 +1,3 @@
-# data-analytics-final-project
 # Havacılık Değişkenlerinin Ekonomik Entegrasyon Üzerindeki Etkileri
 
 Bu depo, **Veri Analitiği** dersi kapsamında hazırlanmış olan veri analizi çalışmasını içermektedir.
