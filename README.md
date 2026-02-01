@@ -67,4 +67,3 @@ Bu çalışmaya ait makale metni, depoda **PDF formatında** yer almaktadır.
 
 
 Bu çalışma, üniversite dersi kapsamında **eğitim amaçlı** olarak hazırlanmıştır.  
-Veri seti ve analiz sürecine ilişkin detaylar, ilgilenenlerle paylaşılabilir.
